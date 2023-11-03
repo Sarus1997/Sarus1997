@@ -13,23 +13,19 @@
 
 
 <h3>:memo: Languages and Tools:</h3>
-
-<a href="https://discord.gg/#3541">
-  <img src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" alt="Html5">
-</a>
-
-
 <p>
-	<img alt="Html5" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50"/>
-	<img alt="Css3" src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" width="50"/>
-	<img alt="JavaScript" src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" width="50"/>
-	<img alt="php" src="https://img.icons8.com/?size=256&id=ew5sPNbvz6Dw&format=png" width="50" />
-	<img alt="Python" src="https://img.icons8.com/?size=256&id=pIJdjOoL6KfU&format=png" width="50" />
-	<img alt="Sql" src="https://img.icons8.com/?size=256&id=13406&format=png" width="50" />
-	<img alt="NoSql" src="https://img.icons8.com/?size=256&id=74402&format=png" width="50" />
-	<img alt="Node.js" src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" width="50" />
-	<img alt="Bootstrap" src="https://img.icons8.com/?size=256&id=EzPCiQUqWWEa&format=png " width="50" />
+	<a href="https://www.w3schools.com/html/"><img alt="Html5" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50"></a>
+	<a href="https://www.w3schools.com/css/"><img alt="Css3" src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" width="50"></a>
+	<a href="https://www.w3schools.com/js/"><img alt="JavaScript" src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" width="50"></a>
+ 	<a href="https://www.w3schools.com/php/"><img alt="php" src="https://img.icons8.com/?size=256&id=ew5sPNbvz6Dw&format=png" width="50"></a>
+ 	<a href="https://www.python.org/"><img alt="Python" src="https://img.icons8.com/?size=256&id=pIJdjOoL6KfU&format=png" width="50"></a>
+ 	<a href="https://www.w3schools.com/sql/"><img alt="Sql" src="https://img.icons8.com/?size=256&id=13406&format=png" width="50"></a>
+ 	<a href="https://www.mongodb.com/nosql-explained"><img alt="NoSql" src="https://img.icons8.com/?size=256&id=74402&format=png" width="50""></a>
+ 	<a href="https://nodejs.org/en"><img alt="Node.js" src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" width="50""></a>
+  	<a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.icons8.com/?size=256&id=EzPCiQUqWWEa&format=png" width="50""></a>
+
 </p>
+
 
 <p>
 	
