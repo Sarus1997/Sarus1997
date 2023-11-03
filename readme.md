@@ -15,7 +15,7 @@
 <h3>:memo: Languages and Tools:</h3>
 <div style="width: 30px; height: 30px;">
 	<p>
-		<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+		<img alt="React" src="https://img.icons8.com/?size=256&id=9nmz9TYzN8iO&format=png 1x, https://img.icons8.com/?size=512&id=9nmz9TYzN8iO&format=png" />
 	</p>
 </div>
 <p>
