@@ -13,11 +13,20 @@
 
 
 <h3>:memo: Languages and Tools:</h3>
-<div class="icon">
-	<p>
-		<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
-	</p>
-</div>
+<p>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
+</p>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
