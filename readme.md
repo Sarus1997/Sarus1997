@@ -26,7 +26,7 @@
 	        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
 	      <br>C#
 		 <td align="center" width="96">
-	        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+	        <img src="http://www.w3.org/2000/svg" alt="icon" width="65" height="65" />
 	      <br>C#
 	    </td>
 	</tr>
