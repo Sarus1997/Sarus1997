@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/>
   <img height="180em" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p>
 
