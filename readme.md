@@ -13,7 +13,7 @@
 
 
 <h3>:memo: Languages and Tools:</h3>
-<div>
+<div class="icon">
 	<p>
 		<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" height="45"/>
 	</p>
