@@ -3,7 +3,7 @@
 
 <div align="center">
 	<br>
-	<a href="https://github.com/Sarus1997/Sarus1997/blob/main/hello.svg?short_path=334ed40">
+	<a href="https://github.com/Sarus1997/Sarus1997/blame/main/hello.svg">
 		<img src="hello.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
