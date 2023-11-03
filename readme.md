@@ -21,7 +21,7 @@
 	<img alt="Python" src="https://img.icons8.com/?size=256&id=pIJdjOoL6KfU&format=png" width="50" />
 	<img alt="Sql" src="https://img.icons8.com/?size=256&id=13406&format=png" width="50" />
 	<img alt="NoSql" src="https://img.icons8.com/?size=256&id=74402&format=png" width="50" />
-	<img alt="Node.js" src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-1-226034.png?f=webp&w=256" width="50" />
+	<img alt="Node.js" src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" width="50" />
 	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" />
 	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" />
 	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" />
