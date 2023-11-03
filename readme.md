@@ -109,13 +109,13 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="profile-trophy" align="lift"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="profile-trophy" align="right"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="profile-trophy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="profile-trophy"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy" align="lift"/>
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/>
+  <img height="180em" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p>
 
 
