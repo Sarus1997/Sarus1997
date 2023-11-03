@@ -19,9 +19,9 @@
 	<img alt="JavaScript" src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" width="50"/>
 	<img alt="php" src="https://img.icons8.com/?size=256&id=ew5sPNbvz6Dw&format=png" width="50" />
 	<img alt="Python" src="https://img.icons8.com/?size=256&id=pIJdjOoL6KfU&format=png" width="50" />
-	<img alt="React" src="https://img.icons8.com/?size=256&id=13406&format=png" width="50" />
-	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" />
-	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" />
+	<img alt="Sql" src="https://img.icons8.com/?size=256&id=13406&format=png" width="50" />
+	<img alt="NoSql" src="https://img.icons8.com/?size=256&id=74402&format=png" width="50" />
+	<img alt="Node.js" src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-2-226035.png?f=webp&w=256" width="50" />
 	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" />
 	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" />
 	<img alt="React" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" />
