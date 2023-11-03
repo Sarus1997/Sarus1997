@@ -14,22 +14,24 @@
 
 <h3>:memo: Languages and Tools:</h3>
 <p>
-  <img alt="Html5" src=""/>
-  <img alt="Heroku" src="" />
-  <img alt="git" src="" />
-  <img alt="angular" src="" />
-  <img alt="npm" src="" />
-  <img alt="html5" src="" />
-  <img alt="Brave browser" src="" />
-  <img alt="MongoDB" src="" />
+  <img alt="HTML5" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MySql" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
   <img alt="Nodejs" src="" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Nodejs" src="" />
-  <img alt="Nodejs" src="" />
-  <img alt="Nodejs" src="" />
-  <img alt="Nodejs" src="" />
-  <img alt="Nodejs" src="" />
-  <img alt="Nodejs" src="" />
+  <img alt="CSS3" src=""/>
+  <img alt="Express.js" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="React Native" src="" />
+  <img alt="React" src="" />
+  <img alt="Vue.js" src="" />
+  <img alt="NPM" src="" />
+  <img alt="jQuery" src="" />
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 
