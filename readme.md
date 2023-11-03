@@ -17,6 +17,15 @@
       <br>C#
     </td>
 </tr>
+
+<tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+</tr>
+
+
 <h3>:memo: Languages and Tools:</h3>
 <p>
 	<a href="https://www.w3schools.com/html/"><img alt="Html5" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50"></a>
