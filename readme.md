@@ -107,6 +107,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarus1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<p align="center">
+<a href="https://github.com/Sarus1997">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="profile-trophy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="profile-trophy"/>
+</a>
+</p>
+
+
 # 📊 GitHub Stats:
 <p align='left'><img src="https://github-readme-stats.vercel.app/api?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="profile-trophy"></p>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/></p>
@@ -116,10 +124,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sarus1997&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-<p align="center">
-<a href="https://github.com/Sarus1997">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="profile-trophy"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/>
-</a>
-</p>
 
