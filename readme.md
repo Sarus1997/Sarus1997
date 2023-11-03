@@ -26,7 +26,7 @@
 
 </p>
 
-<h3>📔 libraries:</h3>
+<h3>📙 libraries:</h3>
 <p>
 	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
