@@ -12,7 +12,7 @@
 <br>
 
 
-<h3>## :memo: Programming language & Tool Programming</h3>
+<h3>:memo: Programming language & Tool Programming</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -23,6 +23,13 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Nodejs" src="" />
+  <img alt="Nodejs" src="" />
+  <img alt="Nodejs" src="" />
+  <img alt="Nodejs" src="" />
+  <img alt="Nodejs" src="" />
+  <img alt="Nodejs" src="" />
 </p>
 
 
