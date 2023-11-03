@@ -14,7 +14,10 @@
 
 <h3>:memo: Languages and Tools:</h3>
 
-[![Html5](https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png )](https://discord.gg/#3541)
+<a href="https://discord.gg/#3541">
+  <img src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50" alt="Html5">
+</a>
+
 
 <p>
 	<img alt="Html5" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50"/>
