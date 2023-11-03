@@ -22,6 +22,7 @@
 	<img alt="Sql" src="https://img.icons8.com/?size=256&id=13406&format=png" width="50" />
 	<img alt="NoSql" src="https://img.icons8.com/?size=256&id=74402&format=png" width="50" />
 	<img alt="Node.js" src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" width="50" />
+	<img alt="Bootstrap" src="https://img.icons8.com/?size=256&id=EzPCiQUqWWEa&format=png " width="50" />
 </p>
 
 <p>
