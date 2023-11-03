@@ -15,7 +15,7 @@
 <h3>:memo: Languages and Tools:</h3>
 <div>
 	<p>
-		<img alt="React" src="https://img.icons8.com/?size=256&id=9nmz9TYzN8iO&format=png" />
+		<img alt="React" src="https://img.icons8.com/?size=256&id=9nmz9TYzN8iO&format=png" width: 30px; height: 30px; />
 	</p>
 </div>
 <p>
