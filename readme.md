@@ -16,7 +16,7 @@
 <p>
 	<img alt="Html5" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="50"/>
 	<img alt="Css3" src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" width="50"/>
-	<img alt="JavaScript" src="https://img.icons8.com/?size=256&id=RwtOBojoLS2N&format=png" width="50"/>
+	<img alt="JavaScript" src="https://img.icons8.com/?size=256&id=laVIsJnTtYoj&format=png" width="50"/>
 	<img alt="php" src="https://img.icons8.com/?size=256&id=ew5sPNbvz6Dw&format=png" width="50" />
 	<img alt="Python" src="https://img.icons8.com/?size=256&id=pIJdjOoL6KfU&format=png" width="50" />
 	<img alt="React" src="https://img.icons8.com/?size=256&id=13406&format=png" width="50" />
