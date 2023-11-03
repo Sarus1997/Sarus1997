@@ -115,9 +115,14 @@
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/Sarus1997">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/>
+  <img height="180em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+</a>
+</p>
 
-# 📊 GitHub Stats:
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/></p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sarus1997&limit=5&theme=radical&combine_all_yearly_contributions=true)
