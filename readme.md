@@ -1,3 +1,6 @@
+# 💫 About Me:
+📛 My Name : Saharat Suwannapapond<br>📖 My Nicename : Sarus<br>🏫 I Study in Walailak University<br>
+
 <div align="center">
 	<br>
 	<a href="https://github.com/Sarus1997/hello-world/blame/main/hello.svg">
