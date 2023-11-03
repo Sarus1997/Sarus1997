@@ -115,7 +115,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/>
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </p>
 
 
