@@ -14,7 +14,7 @@
 
 <h3>:memo: Languages and Tools:</h3>
 <p>
-	<img alt="Html5" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" width="45" />
+	<img alt="Html5" src="https://img.icons8.com/?size=256&id=D2Hi2VkJSi33&format=png" />
 	<img alt="Css3" src="https://img.icons8.com/?size=80&id=YjeKwnSQIBUq&format=png" width="45" height="45"/>
 	<img alt="JavaScript" src="https://img.icons8.com/?size=256&id=RwtOBojoLS2N&format=png" width="45" height="45"/>
 	<img alt="php" src="https://img.icons8.com/?size=256&id=13460&format=png" width="45" height="45"/>
