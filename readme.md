@@ -18,7 +18,7 @@
 	<tr>
 	    <td align="center" width="96">
 		    <a href="https://www.w3schools.com/html/">
-	        <img src="https://iconscout.com/lottie-animations/html-5" alt="icon" width="65" height="65" />
+	        <img src="https://cdnl.iconscout.com/lottie/free/thumb/free-html-5-4740783-3938345.mp4" alt="icon" width="65" height="65" />
 		    </a>
 	      <br>C#
 	    </td>
