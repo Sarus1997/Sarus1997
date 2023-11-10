@@ -18,7 +18,7 @@
 	<tr>
 	    <td align="center" width="96">
 		    <a href="https://www.w3schools.com/html/">
-	        <img src="https://cdn-icons-gif.flaticon.com/8722/8722703.gif" alt="icon" width="65" height="65" />
+	        <img src="icon/html5.gif" alt="icon" width="65" height="65" />
 		    </a>
 	      <br>C#
 	    </td>
