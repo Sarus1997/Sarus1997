@@ -24,7 +24,7 @@
 	    </td>
 	    <td align="center" width="96">
 		    <a href="https://www.w3schools.com/html/">
-	        <img src="icon/css.gif" alt="icon" width="65" height="65" />
+	        <img src="icon/css.gif" alt="icon" width="45" height="45" />
 		    </a>
 	      <br>C#
 	    </td>
