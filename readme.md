@@ -45,7 +45,7 @@
 	      <br>Sql
 	    </td>
 		<td align="center" width="96">
-	        <img src="icon/nosql-icon.gif" alt="icon" width="65" height="65" />
+	        <img src="icon/nosql.gif" alt="icon" width="65" height="65" />
 	      <br>NoSql
 	    </td>
 	</tr>
