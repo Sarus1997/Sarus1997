@@ -47,6 +47,9 @@
 		<td align="center" width="96">
 	        <img src="icon/nosql.gif" alt="icon" width="65" height="65" />
 	      <br>NoSql
+		<td align="center" width="96">
+	        <img src="icon/json.gif" alt="icon" width="65" height="65" />
+	      <br>Json
 	    </td>
 	</tr>
 </table>
