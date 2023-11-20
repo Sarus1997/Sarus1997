@@ -32,6 +32,8 @@
 	        <img src="icon/js-icon.svg" alt="icon" width="65" height="65" />
 	      <br>JavaScript
 	    </td>
+	</tr>
+	<tr>
 		<td align="center" width="96">
 	        <img src="icon/python-icon.svg" alt="icon" width="65" height="65" />
 	      <br>Python
@@ -44,6 +46,8 @@
 	        <img src="icon/sql-icon.gif" alt="icon" width="65" height="65" />
 	      <br>Sql
 	    </td>
+	</tr>
+	 <tr>
 		<td align="center" width="96">
 	        <img src="icon/nosql.gif" alt="icon" width="65" height="65" />
 	      <br>NoSql
@@ -51,7 +55,14 @@
 	        <img src="icon/json.gif" alt="icon" width="65" height="65" />
 	      <br>Json
 	    </td>
-	</tr>
+		 <td align="center" width="96">
+	        <img src="icon/json.gif" alt="icon" width="65" height="65" />
+	      <br>Json
+	    </td>
+	 </tr>
+
+
+
 </table>
 
 <p>
