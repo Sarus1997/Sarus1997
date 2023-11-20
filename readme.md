@@ -32,10 +32,21 @@
 	        <img src="icon/js-icon.svg" alt="icon" width="65" height="65" />
 	      <br>JavaScript
 	    </td>
-	</td>
 		<td align="center" width="96">
 	        <img src="icon/python-icon.svg" alt="icon" width="65" height="65" />
 	      <br>Python
+	    </td>
+		<td align="center" width="96">
+	        <img src="icon/php.gif" alt="icon" width="65" height="65" />
+	      <br>PHP
+	    </td>
+		<td align="center" width="96">
+	        <img src="icon/sql-icon.gif" alt="icon" width="65" height="65" />
+	      <br>Sql
+	    </td>
+		<td align="center" width="96">
+	        <img src="icon/nosql-icon.gif" alt="icon" width="65" height="65" />
+	      <br>NoSql
 	    </td>
 	</tr>
 </table>
