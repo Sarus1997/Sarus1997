@@ -16,21 +16,26 @@
 
 <table>
 	<tr>
-	    <td align="center" width="96">
+		<td align="center" width="96">
 		    <a href="https://www.w3schools.com/html/">
 	        <img src="icon/html5.gif" alt="icon" width="65" height="65" />
 		    </a>
 	      <br>HTML5
 	    </td>
-	    <td align="center" width="96">
+		<td align="center" width="96">
 		    <a href="https://www.w3schools.com/html/">
 	        <img src="icon/css1.gif" alt="icon" width="65" height="65" />
 		    </a>
 	      <br>CSS
 	    </td>
-		 <td align="center" width="96">
+		<td align="center" width="96">
 	        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-	      <br>C#
+	      <br>JavaScript
+	    </td>
+	</td>
+		<td align="center" width="96">
+	        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+	      <br>Python
 	    </td>
 	</tr>
 </table>
