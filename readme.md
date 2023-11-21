@@ -19,7 +19,7 @@
 		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>HTML5
 	    </td>
-		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/css-icon.svg" alt="icon" width="65" height="65" /></a>
+		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/" alt="icon" width="65" height="65" /></a>
 	      <br>CSS
 	    </td>
 		<td align="center" width="96"><a href="https://www.w3schools.com/js/"><img src="icon/js-icon.svg" alt="icon" width="65" height="65" /></a>
