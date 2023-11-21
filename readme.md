@@ -16,39 +16,40 @@
 
 <table>
 	<tr>
-		<td align="center" width="96">
-		    <a href="https://www.w3schools.com/html/">
-	        <img src="icon/html5.gif" alt="icon" width="65" height="65" />
-		    </a>
+		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html5.gif" alt="icon" width="65" height="65" /></a>
 	      <br>HTML5
 	    </td>
-		<td align="center" width="96">
-		    <a href="https://www.w3schools.com/html/">
-	        <img src="icon/css1.gif" alt="icon" width="65" height="65" />
-		    </a>
+		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/css1.gif" alt="icon" width="65" height="65" /></a>
 	      <br>CSS
 	    </td>
-		<td align="center" width="96">
-	        <img src="icon/js-icon.svg" alt="icon" width="65" height="65" />
+		<td align="center" width="96"><a href="https://www.w3schools.com/js/"><img src="icon/js-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>JavaScript
 	    </td>
-		<td align="center" width="96">
-	        <img src="icon/python-icon.svg" alt="icon" width="65" height="65" />
+	</tr>
+	<tr>
+		<td align="center" width="96"><a href="https://www.python.org/"><img src="icon/python-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>Python
 	    </td>
-		<td align="center" width="96">
-	        <img src="icon/php.gif" alt="icon" width="65" height="65" />
+		<td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php.gif" alt="icon" width="65" height="65" /></a>
 	      <br>PHP
 	    </td>
-		<td align="center" width="96">
-	        <img src="icon/sql-icon.gif" alt="icon" width="65" height="65" />
+		<td align="center" width="96"><a href="https://www.w3schools.com/sql/"><img src="icon/sql-icon.gif" alt="icon" width="65" height="65" /></a>
 	      <br>Sql
 	    </td>
-		<td align="center" width="96">
-	        <img src="icon/nosql-icon.gif" alt="icon" width="65" height="65" />
-	      <br>NoSql
-	    </td>
 	</tr>
+	 <tr>
+		<td align="center" width="96"><a href="https://www.mongodb.com/nosql-explained"><img src="icon/nosql.gif" alt="icon" width="65" height="65" /></a>
+	      <br>NoSql
+		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/json.gif" alt="icon" width="65" height="65" /></a>
+	      <br>Json
+	    </td>
+		 <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/json.gif" alt="icon" width="65" height="65" /></a>
+	      <br>Json
+	    </td>
+	 </tr>
+
+
+
 </table>
 
 <p>
