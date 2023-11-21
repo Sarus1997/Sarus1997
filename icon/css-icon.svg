@@ -95,5 +95,5 @@
         width="300"
         height="100"
       ></rect>
-      <text class="js-text" x="35" y="70" fill="white" style="font-size: 30px">CSS</text>
+      <text class="js-text" x="30" y="70" fill="white" style="font-size: 27px">CSS</text>
     </svg>
