@@ -1,16 +1,9 @@
 # 💫 About Me:
 📛 My Name : Saharat Suwannapapond<br>📖 My Nicename : Sarus<br>🏫 I Study in Walailak University<br>
 
-<div align="center">
-	<br>
-	<a href="https://github.com/Sarus1997/Sarus1997/blame/main/hello.svg">
-		<img src="hello.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
-
-<br>
-
+<div align="center"><br>
+	<a href="https://github.com/Sarus1997/Sarus1997/blame/main/hello.svg"><img src="hello.svg" width="800" height="400" alt="Click to see the source"></a><br>
+</div><br>
 
 <h3>:memo: Languages and Tools:</h3>
 
@@ -54,6 +47,7 @@
 
 
 <h3>💻 Tech Stack::</h3>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
