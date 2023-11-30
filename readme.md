@@ -1,11 +1,11 @@
-# 💫 About Me:
+<h2>💫 About Me :</h2>
 📛 My Name : Saharat Suwannapapond<br>📖 My Nicename : Sarus<br>🏫 I Study in Walailak University<br>
 
 <div align="center"><br>
 	<a href="https://github.com/Sarus1997/Sarus1997/blame/main/hello.svg"><img src="hello.svg" width="800" height="400" alt="Click to see the source"></a><br>
 </div><br>
 
-<h3>:memo: Languages and Tools:</h3>
+<h2>:memo: Languages and Tools :</h2>
 
 <table>
 	<tr>
@@ -46,7 +46,7 @@
 </table>
 
 
-<h3>💻 Tech Stack:</h3>
+<h2>💻 Tech Stack :</h2>
 
 <p>
 	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="24"/>
@@ -78,7 +78,7 @@
 </p>
 
 
-## 🌐 Socials: Contact me
+<h2>🌐 Socials: Contact me :</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3541)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saharat.suwannapapond.7)
@@ -87,7 +87,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sarus_ss)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sr_sarus)
 
-<h3>📚 Other Skills:</h3>
+<h2>📚 Other Skills :</h2>
 
 <p>
 	<img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" height="24"/>
@@ -99,10 +99,11 @@
 </p>
 
 
-## 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies :</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=sarus1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# 📊 GitHub Stats:
+<h2>📊 GitHub Stats :</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="profile-trophy"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="profile-trophy"/>
@@ -115,7 +116,8 @@
 
 
 
-### 🔝 Top Contributed Repo
+<h2>🔝 Top Contributed Repo :</h2>
+
 ![](https://github-contributor-stats.vercel.app/api?username=sarus1997&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
