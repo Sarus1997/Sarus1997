@@ -39,7 +39,7 @@
 	      <br>Sql
 	    </td>
 			    </td>
-		<td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/b1.gif" alt="icon" width="65" height="65" /></a>
+		<td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/B1.gif" alt="icon" width="65" height="65" /></a>
 	      <br>Bootstrap
 	    </td>
 	</tr>
