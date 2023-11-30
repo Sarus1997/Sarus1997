@@ -1,4 +1,4 @@
-<h3>💫 About Me:</h3>
+<h2>💫 About Me:</h2>
 📛 My Name : Saharat Suwannapapond<br>📖 My Nicename : Sarus<br>🏫 I Study in Walailak University<br>
 
 <div align="center"><br>
