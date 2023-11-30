@@ -40,8 +40,8 @@
 	 <tr>
 		<td align="center" width="96"><a href="https://www.mongodb.com/nosql-explained"><img src="icon/mongodb.gif" alt="icon" width="65" height="65" /></a>
 	      <br>NoSql
-		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/sql-icon.gif" alt="icon" width="65" height="65" /></a>
-	      <br>Json
+		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/react-icon.svg" alt="icon" width="65" height="65" /></a>
+	      <br>React
 	    </td>
 		 <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/json1.gif" alt="icon" width="65" height="65" /></a>
 	      <br>Json
