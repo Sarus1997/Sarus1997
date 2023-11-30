@@ -29,7 +29,7 @@
 	    </td>
 	</tr>
 	<tr>
-		<td align="center" width="96"><a href="https://owlcarousel2.github.io/OwlCarousel2/"><img src="icon/php.gif" alt="icon" width="65" height="65" /></a>
+		<td align="center" width="96"><a href="https://owlcarousel2.github.io/OwlCarousel2/"><img src="icon/owl.gif" alt="icon" width="65" height="65" /></a>
 	      <br>Owl
 	    </td>
 		<td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php.gif" alt="icon" width="65" height="65" /></a>
