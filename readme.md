@@ -9,10 +9,10 @@
 
 <table>
 	<tr>
-		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html-icon.svg" alt="icon" width="10" height="10" /></a>
+		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>HTML5
 	    </td>
-		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/css-icon.svg" alt="icon" width="10" height="10" /></a>
+		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/css-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>CSS
 	    </td>
 		<td align="center" width="96"><a href="https://www.w3schools.com/js/"><img src="icon/js-icon.svg" alt="icon" width="65" height="65" /></a>
@@ -49,8 +49,8 @@
 <h3>💻 Tech Stack::</h3>
 
 <p>
-	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="65" height="65"/>
-	<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="65" height="65"/>
+	<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="65" height="25"/>
+	<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="65" height="25"/>
 	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 	<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 	<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
