@@ -38,6 +38,10 @@
 		<td align="center" width="96"><a href="https://www.w3schools.com/sql/"><img src="icon/mysql-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>Sql
 	    </td>
+			    </td>
+		<td align="center" width="96"><a href="https://www.w3schools.com/sql/"><img src="icon/mysql-icon.svg" alt="icon" width="65" height="65" /></a>
+	      <br>Sql
+	    </td>
 	</tr>
 	 <tr>
 		<td align="center" width="96"><a href="https://www.mongodb.com/nosql-explained"><img src="icon/mongodb.gif" alt="icon" width="65" height="65" /></a>
@@ -46,6 +50,9 @@
 	      <br>React
 	    </td>
 		 <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/json1.gif" alt="icon" width="65" height="65" /></a>
+	      <br>Json
+	    </td>
+				 <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/json1.gif" alt="icon" width="65" height="65" /></a>
 	      <br>Json
 	    </td>
 	 </tr>
