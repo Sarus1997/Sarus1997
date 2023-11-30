@@ -100,6 +100,7 @@
 
 
 <h2>🏆 GitHub Trophies:</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=sarus1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2>📊 GitHub Stats:</h2>
@@ -116,6 +117,7 @@
 
 
 <h2>🔝 Top Contributed Repo:</h2>
+
 ![](https://github-contributor-stats.vercel.app/api?username=sarus1997&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
