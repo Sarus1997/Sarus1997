@@ -33,7 +33,7 @@
 		<td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php.gif" alt="icon" width="65" height="65" /></a>
 	      <br>PHP
 	    </td>
-		<td align="center" width="96"><a href="https://www.w3schools.com/sql/"><img src="icon/mysql-icon.svg.gif" alt="icon" width="65" height="65" /></a>
+		<td align="center" width="96"><a href="https://www.w3schools.com/sql/"><img src="icon/mysql-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>Sql
 	    </td>
 	</tr>
