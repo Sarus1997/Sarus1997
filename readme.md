@@ -18,19 +18,19 @@
 		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>HTML5
 	    </td>
-		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/css-icon.svg" alt="icon" width="65" height="65" /></a>
+		<td align="center" width="96"><a href="https://www.w3schools.com/css/"><img src="icon/css-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>CSS
 	    </td>
 		<td align="center" width="96"><a href="https://www.w3schools.com/js/"><img src="icon/js-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>JavaScript
 	    </td>
-				<td align="center" width="96"><a href="https://www.w3schools.com/js/"><img src="icon/js-icon.svg" alt="icon" width="65" height="65" /></a>
-	      <br>JavaScript
+				<td align="center" width="96"><a href="https://www.python.org/"><img src="icon/python-icon.svg" alt="icon" width="65" height="65" /></a>
+	      <br>Python
 	    </td>
 	</tr>
 	<tr>
-		<td align="center" width="96"><a href="https://www.python.org/"><img src="icon/python-icon.svg" alt="icon" width="65" height="65" /></a>
-	      <br>Python
+		<td align="center" width="96"><a href="https://owlcarousel2.github.io/OwlCarousel2/"><img src="icon/php.gif" alt="icon" width="65" height="65" /></a>
+	      <br>Owl
 	    </td>
 		<td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php.gif" alt="icon" width="65" height="65" /></a>
 	      <br>PHP
@@ -39,8 +39,8 @@
 	      <br>Sql
 	    </td>
 			    </td>
-		<td align="center" width="96"><a href="https://www.w3schools.com/sql/"><img src="icon/mysql-icon.svg" alt="icon" width="65" height="65" /></a>
-	      <br>Sql
+		<td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/bootstrap.gif" alt="icon" width="65" height="65" /></a>
+	      <br>bootstrap
 	    </td>
 	</tr>
 	 <tr>
@@ -49,11 +49,24 @@
 		<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/react-icon.svg" alt="icon" width="65" height="65" /></a>
 	      <br>React
 	    </td>
-		 <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/json1.gif" alt="icon" width="65" height="65" /></a>
+		 <td align="center" width="96"><a href="https://vuejs.org/"><img src="icon/vue.gif" alt="icon" width="65" height="65" /></a>
+	      <br>Vue.js
+	    </td>
+				 <td align="center" width="96"><a href="https://www.json.org/json-nl.html"/><img src="icon/json1.gif" alt="icon" width="65" height="65" /></a>
 	      <br>Json
 	    </td>
-				 <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/json1.gif" alt="icon" width="65" height="65" /></a>
-	      <br>Json
+	 </tr>
+	 	 <tr>
+		<td align="center" width="96"><a href="https://laravel.com/"><img src="icon/laravel.gif" alt="icon" width="65" height="65" /></a>
+	      <br>laravel
+		<td align="center" width="96"><a href="https://nodejs.org/en"><img src="icon/node-icon.svg" alt="icon" width="65" height="65" /></a>
+	      <br>nodejs
+	    </td>
+		 <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
+	      <br>golang
+	    </td>
+				 <td align="center" width="96"><a href="https://git-scm.com/"/><img src="icon/git.gif" alt="icon" width="65" height="65" /></a>
+	      <br>git
 	    </td>
 	 </tr>
 
