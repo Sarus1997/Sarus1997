@@ -40,7 +40,7 @@
 	    </td>
 			    </td>
 		<td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/bootstrap.gif" alt="icon" width="65" height="65" /></a>
-	      <br>bootstrap
+	      <br>Bootstrap
 	    </td>
 	</tr>
 	 <tr>
@@ -58,15 +58,15 @@
 	 </tr>
 	 	 <tr>
 		<td align="center" width="96"><a href="https://laravel.com/"><img src="icon/laravel.gif" alt="icon" width="65" height="65" /></a>
-	      <br>laravel
+	      <br>Laravel
 		<td align="center" width="96"><a href="https://nodejs.org/en"><img src="icon/node-icon.svg" alt="icon" width="65" height="65" /></a>
-	      <br>nodejs
+	      <br>Nodejs
 	    </td>
 		 <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
-	      <br>golang
+	      <br>Golang
 	    </td>
 				 <td align="center" width="96"><a href="https://git-scm.com/"/><img src="icon/git.gif" alt="icon" width="65" height="65" /></a>
-	      <br>git
+	      <br>Git
 	    </td>
 	 </tr>
 
