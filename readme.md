@@ -1,6 +1,12 @@
 <h2>💫 About Me :</h2>
 📛 My Name : Saharat Suwannapapond<br>📖 My Nicename : Sarus<br>🏫 I Study in Walailak University<br>
 
+<h2> Port</h2>
+
+[![streak](https://codeium.com/badges/v2/user/sarus/streak)](https://codeium.com/profile/sarus)
+
+
+
 <div align="center"><br>
 	<a href="https://github.com/Sarus1997/Sarus1997/blame/main/hello.svg"><img src="hello.svg" width="800" height="400" alt="Click to see the source"></a><br>
 </div><br>
