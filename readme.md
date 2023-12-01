@@ -59,7 +59,7 @@
 	 	 <tr>
 		<td align="center" width="96"><a href="https://laravel.com/"><img src="icon/laravel.gif" alt="icon" width="65" height="65" /></a>
 	      <br>Laravel
-		<td align="center" width="96"><a href="https://nodejs.org/en"><img src="icon/node.gif" alt="icon" width="65" height="65" /></a>
+		<td align="center" width="96"><a href="https://nodejs.org/en"><img src="icon/node1.gif" alt="icon" width="65" height="65" /></a>
 	      <br>Nodejs
 	    </td>
 		 <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
