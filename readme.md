@@ -25,14 +25,14 @@
     <td align="center" width="96"><a href="https://www.python.org/"><img src="icon/python-icon.svg" alt="icon" width="65" height="65" /></a>
        <br>Python
      </td>
-    <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html-icon.svg" alt="icon" width="65" height="65" /></a>
-       <br>HTML5
+    <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
+       <br>Golang
      </td>
-  <td align="center" width="96"><a href="https://www.w3schools.com/css/"><img src="icon/css-icon.svg" alt="icon" width="65" height="65" /></a>
-       <br>CSS
+  <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>C
      </td>
-  <td align="center" width="96"><a href="https://www.w3schools.com/js/"><img src="icon/js-icon.svg" alt="icon" width="65" height="65" /></a>
-       <br>JavaScript
+  <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>C#
      </td>
  </tr>
 
