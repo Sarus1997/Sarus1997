@@ -91,9 +91,6 @@
        <br>Git
      </td>
         <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>Apache
-     </td>
-        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
        <br>Firebase
      </td>
  </tr>
@@ -113,9 +110,6 @@
      </td>
         <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
        <br>Jqwidgets
-     </td>
-        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>Codepen
      </td>
         <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
        <br>Chart.js
