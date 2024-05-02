@@ -13,7 +13,7 @@
 
 <table>
  <tr>
-  <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html-icon.svg" alt="icon" width="65" height="65" /></a>
+   <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html-icon.svg" alt="icon" width="65" height="65" /></a>
        <br>HTML5
      </td>
   <td align="center" width="96"><a href="https://www.w3schools.com/css/"><img src="icon/css-icon.svg" alt="icon" width="65" height="65" /></a>
@@ -25,35 +25,76 @@
     <td align="center" width="96"><a href="https://www.python.org/"><img src="icon/python-icon.svg" alt="icon" width="65" height="65" /></a>
        <br>Python
      </td>
-    <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
+  <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
        <br>Golang
      </td>
-  <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>C
-     </td>
-  <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>C#
+    <td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php1.gif" alt="icon" width="65" height="65" /></a>
+       <br>PHP
      </td>
  </tr>
 
  <tr>
-  <td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php1.gif" alt="icon" width="65" height="65" /></a>
-       <br>PHP
-     </td>
-	   <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
        <br>C
      </td>
-	   <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>C
+    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>C++
      </td>
-	   <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>C
+    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>C#
      </td>
-	   <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>C
+    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Java
      </td>
-	   <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>C
+    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Dart
+     </td>
+      <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Flutter
+     </td>
+ </tr>
+
+  <tr>
+  <td align="center" width="96"><a href="https://react.dev/"><img src="icon/react.gif" alt="icon" width="65" height="65" /></a>
+       <br>React.js
+     </td>
+    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Next.js
+     </td>
+   <td align="center" width="96"><a href="https://vuejs.org/"><img src="icon/vue.gif" alt="icon" width="65" height="65" /></a>
+       <br>Vue.js
+     </td>
+    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Angular.js
+     </td>
+  <td align="center" width="96"><a href="https://laravel.com/"><img src="icon/laravel.gif" alt="icon" width="65" height="65" /></a>
+       <br>Laravel
+  </td>
+      <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Jquery UI
+     </td>
+ </tr>
+
+ <tr>
+   <td align="center" width="96"><a href="https://nodejs.org/en"><img src="icon/node1.gif" alt="icon" width="65" height="65" /></a>
+       <br>Node.js
+     </td>  <td align="center" width="96"><a href="https://www.w3schools.com/sql/"><img src="icon/mysql.gif" alt="icon" width="65" height="65" /></a>
+       <br>Sql
+     </td>
+  <td align="center" width="96"><a href="https://www.mongodb.com/nosql-explained"><img src="icon/mongodb.gif" alt="icon" width="65" height="65" /></a>
+       <br>NoSql
+    </td>
+      <td align="center" width="96"><a href="https://www.json.org/json-nl.html"/><img src="icon/json1.gif" alt="icon" width="65" height="65" /></a>
+       <br>Json
+     </td>
+       <td align="center" width="96"><a href="https://git-scm.com/"/><img src="icon/git.gif" alt="icon" width="65" height="65" /></a>
+       <br>Git
+     </td>
+        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Apache
+     </td>
+        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Firebase
      </td>
  </tr>
 
@@ -61,45 +102,25 @@
   <td align="center" width="96"><a href="https://owlcarousel2.github.io/OwlCarousel2/"><img src="icon/owl.gif" alt="icon" width="65" height="65" /></a>
        <br>Owl
      </td>
-  <td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php1.gif" alt="icon" width="65" height="65" /></a>
-       <br>PHP
-     </td>
-  <td align="center" width="96"><a href="https://www.w3schools.com/sql/"><img src="icon/mysql.gif" alt="icon" width="65" height="65" /></a>
-       <br>Sql
-     </td>
-       </td>
   <td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/B1.gif" alt="icon" width="65" height="65" /></a>
        <br>Bootstrap
      </td>
+        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Tailwind CSS
+     </td>
+        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>SweetAlert2
+     </td>
+        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Jqwidgets
+     </td>
+        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Codepen
+     </td>
+        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+       <br>Chart.js
+     </td>
  </tr>
-
-  <tr>
-  <td align="center" width="96"><a href="https://www.mongodb.com/nosql-explained"><img src="icon/mongodb.gif" alt="icon" width="65" height="65" /></a>
-       <br>NoSql
-  <td align="center" width="96"><a href="https://react.dev/"><img src="icon/react.gif" alt="icon" width="65" height="65" /></a>
-       <br>React
-     </td>
-   <td align="center" width="96"><a href="https://vuejs.org/"><img src="icon/vue.gif" alt="icon" width="65" height="65" /></a>
-       <br>Vue.js
-     </td>
-     <td align="center" width="96"><a href="https://www.json.org/json-nl.html"/><img src="icon/json1.gif" alt="icon" width="65" height="65" /></a>
-       <br>Json
-     </td>
-  </tr>
-
-<tr>
-  <td align="center" width="96"><a href="https://laravel.com/"><img src="icon/laravel.gif" alt="icon" width="65" height="65" /></a>
-       <br>Laravel
-  <td align="center" width="96"><a href="https://nodejs.org/en"><img src="icon/node1.gif" alt="icon" width="65" height="65" /></a>
-       <br>Nodejs
-     </td>
-   <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
-       <br>Golang
-     </td>
-     <td align="center" width="96"><a href="https://git-scm.com/"/><img src="icon/git.gif" alt="icon" width="65" height="65" /></a>
-       <br>Git
-     </td>
-  </tr>
 
 </table>
 
