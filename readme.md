@@ -43,7 +43,10 @@
       <td align="center" width="96"><a href="https://flutter.dev/"><img src="icon/flutter.gif" alt="icon" width="65" height="65" /></a>
        <br>Flutter
      </td>
+		   <td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/B1.gif" alt="icon" width="65" height="65" /></a>
+       <br>Bootstrap
  </tr>
+
 
   <tr>
   <td align="center" width="96"><a href="https://react.dev/"><img src="icon/react.gif" alt="icon" width="65" height="65" /></a>
@@ -72,19 +75,11 @@
   <td align="center" width="96"><a href="https://www.mongodb.com/nosql-explained"><img src="icon/mongodb.gif" alt="icon" width="65" height="65" /></a>
        <br>NoSql
     </td>
-      <td align="center" width="96"><a href="https://www.json.org/json-nl.html"/><img src="icon/json1.gif" alt="icon" width="65" height="65" /></a>
-       <br>Json
-     </td>
        <td align="center" width="96"><a href="https://git-scm.com/"/><img src="icon/git.gif" alt="icon" width="65" height="65" /></a>
        <br>Git
- </tr>
-
- <tr>
-  <td align="center" width="96"><a href="https://owlcarousel2.github.io/OwlCarousel2/"><img src="icon/owl.gif" alt="icon" width="65" height="65" /></a>
+			   <td align="center" width="96"><a href="https://owlcarousel2.github.io/OwlCarousel2/"><img src="icon/owl.gif" alt="icon" width="65" height="65" /></a>
        <br>Owl
      </td>
-  <td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/B1.gif" alt="icon" width="65" height="65" /></a>
-       <br>Bootstrap
  </tr>
 
 </table>
