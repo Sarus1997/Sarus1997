@@ -28,20 +28,11 @@
   <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
        <br>Golang
      </td>
-    <td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php1.gif" alt="icon" width="65" height="65" /></a>
-       <br>PHP
-     </td>
  </tr>
 
  <tr>
-    <td align="center" width="96"><a href="https://www.w3schools.com/c/"><img src="icon/c.gif" alt="icon" width="65" height="65" /></a>
-       <br>C
-     </td>
-    <td align="center" width="96"><a href="https://www.w3schools.com/cpp/"><img src="icon/cpp.gif" alt="icon" width="65" height="65" /></a>
-       <br>C++
-     </td>
-    <td align="center" width="96"><a href="https://www.w3schools.com/cs/index.php"><img src="icon/cs.gif" alt="icon" width="65" height="65" /></a>
-       <br>C#
+     <td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php1.gif" alt="icon" width="65" height="65" /></a>
+       <br>PHP
      </td>
     <td align="center" width="96"><a href="https://www.java.com/en/"><img src="icon/java1.gif" alt="icon" width="65" height="65" /></a>
        <br>Java
@@ -70,9 +61,6 @@
   <td align="center" width="96"><a href="https://laravel.com/"><img src="icon/laravel.gif" alt="icon" width="65" height="65" /></a>
        <br>Laravel
   </td>
-      <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>Jquery UI
-     </td>
  </tr>
 
  <tr>
@@ -89,10 +77,6 @@
      </td>
        <td align="center" width="96"><a href="https://git-scm.com/"/><img src="icon/git.gif" alt="icon" width="65" height="65" /></a>
        <br>Git
-     </td>
-        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>Firebase
-     </td>
  </tr>
 
  <tr>
@@ -101,19 +85,6 @@
      </td>
   <td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/B1.gif" alt="icon" width="65" height="65" /></a>
        <br>Bootstrap
-     </td>
-        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>Tailwind CSS
-     </td>
-        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>SweetAlert2
-     </td>
-        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>Jqwidgets
-     </td>
-        <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>Chart.js
-     </td>
  </tr>
 
 </table>
