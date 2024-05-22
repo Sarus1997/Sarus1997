@@ -25,9 +25,6 @@
     <td align="center" width="96"><a href="https://www.python.org/"><img src="icon/python-icon.svg" alt="icon" width="65" height="65" /></a>
        <br>Python
      </td>
-  <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
-       <br>Golang
-     </td>
  </tr>
 
  <tr>
@@ -43,8 +40,6 @@
       <td align="center" width="96"><a href="https://flutter.dev/"><img src="icon/flutter.gif" alt="icon" width="65" height="65" /></a>
        <br>Flutter
      </td>
-		   <td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/B1.gif" alt="icon" width="65" height="65" /></a>
-       <br>Bootstrap
  </tr>
 
 
@@ -52,18 +47,15 @@
   <td align="center" width="96"><a href="https://react.dev/"><img src="icon/react.gif" alt="icon" width="65" height="65" /></a>
        <br>React.js
      </td>
-    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>Next.js
-     </td>
    <td align="center" width="96"><a href="https://vuejs.org/"><img src="icon/vue.gif" alt="icon" width="65" height="65" /></a>
        <br>Vue.js
-     </td>
-    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
-       <br>Angular.js
      </td>
   <td align="center" width="96"><a href="https://laravel.com/"><img src="icon/laravel.gif" alt="icon" width="65" height="65" /></a>
        <br>Laravel
   </td>
+	  <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
+       <br>Golang
+     </td>
  </tr>
 
  <tr>
@@ -77,9 +69,15 @@
     </td>
        <td align="center" width="96"><a href="https://git-scm.com/"/><img src="icon/git.gif" alt="icon" width="65" height="65" /></a>
        <br>Git
-			   <td align="center" width="96"><a href="https://owlcarousel2.github.io/OwlCarousel2/"><img src="icon/owl.gif" alt="icon" width="65" height="65" /></a>
+ </tr>
+
+ <tr>
+ 			   <td align="center" width="96"><a href="https://owlcarousel2.github.io/OwlCarousel2/"><img src="icon/owl.gif" alt="icon" width="65" height="65" /></a>
        <br>Owl
      </td>
+ 		   <td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/B1.gif" alt="icon" width="65" height="65" /></a>
+       <br>Bootstrap
+			 </td>
  </tr>
 
 </table>
