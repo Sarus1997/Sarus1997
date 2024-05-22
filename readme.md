@@ -43,13 +43,13 @@
     <td align="center" width="96"><a href="https://www.w3schools.com/cs/index.php"><img src="icon/cs.gif" alt="icon" width="65" height="65" /></a>
        <br>C#
      </td>
-    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+    <td align="center" width="96"><a href="https://www.java.com/en/"><img src="icon/java.gif" alt="icon" width="65" height="65" /></a>
        <br>Java
      </td>
-    <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+    <td align="center" width="96"><a href="https://dart.dev/"><img src="icon/dart_android.gif" alt="icon" width="65" height="65" /></a>
        <br>Dart
      </td>
-      <td align="center" width="96"><a href=""><img src="" alt="icon" width="65" height="65" /></a>
+      <td align="center" width="96"><a href="https://flutter.dev/"><img src="icon/flutter.gif" alt="icon" width="65" height="65" /></a>
        <br>Flutter
      </td>
  </tr>
