@@ -9,7 +9,7 @@
   	  > 🎓 I Study in Walailak University
 </div>
 
-### &nbsp;&nbsp; > Contact Me :
+### &nbsp;&nbsp; > 🌐 Contact Me :
 <div align="left"> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
