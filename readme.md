@@ -123,14 +123,6 @@
    </tr>
 </table>
 
-<h2>🌐 Socials: Contact me :</h2>
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3541)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saharat.suwannapapond.7)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sr_sarus_/?next=%2Fsr_sarus_%2F)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saharat-sarus/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sarus_ss)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sr_sarus)
 
 
 <h2>🏆 GitHub Trophies :</h2>
@@ -138,18 +130,31 @@
 ![](https://github-profile-trophy.vercel.app/?username=sarus1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2>📊 GitHub Stats :</h2>
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img height="215em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarus1997&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="profile-trophy"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="profile-trophy"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/>
-  <img height="180em" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="profile-trophy"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="profile-trophy"/>
 </p>
 
 <h2>🔝 Top Contributed Repo :</h2>
+<p align="center">
+	
+  <img height="200em" src="https://github-contributor-stats.vercel.app/api?username=sarus1997&limit=5&theme=radical&combine_all_yearly_contributions=true" >
+  <img height="200em" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+</p>
 
-![](https://github-contributor-stats.vercel.app/api?username=sarus1997&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<hr>
 
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarus1997&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
