@@ -24,11 +24,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    src="svg/snake/snake-dark.svg"
+    srcset="svg/snake/snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    src="svg/snake/snake-light.svg"
+    srcset="svg/snake/snake-light.svg"
   />
   <img
     alt="github contribution grid snake animation"
