@@ -1,6 +1,6 @@
-# 🧑‍💼 | About Me :
+### 🧑‍💼 | About Me :
 
-<img align="left" height="200" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1505620/f165be671b026f0ff93d2e669dba519cd0e75c16.gif"  />
+<img align="left" height="106" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1505620/f165be671b026f0ff93d2e669dba519cd0e75c16.gif"  />
 
 <div align="left">
 
@@ -10,16 +10,23 @@
 
 </div>
 
-### &nbsp;&nbsp;  🌐 Contact Me >
-<div align="left"> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+<hr>
 
-###
+<img align="right" height="106" src="https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSIYhY_9XEDYOMNRBsMoGuuOgceXob50kaxV_PHjMO1MHaEqgcnrd6luAmoGB-kzc6yrnUN6_b6OPE-dvLHVzCRlbkutuU4Tn3mlEV04G6DmN-tc2XAN1AkSsNyoQ/?allow_animated=1"  />
+
+<h3 align="right"> 🌐 > Contact Me &nbsp;</h3>
+<div align="right"> 
+<a href="https://fb.com/saharat suwannapapond" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="25" width="25" /></a>
+<a href="https://instagram.com/qsqs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"  height="25" width="25" /></a>
+<a href="https://x.com/qsqs" target="blank"><img align="center" src="https://freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png"  height="25" width="25" /></a>
+<a href="https://gmail.com/qsqs" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"  height="25" width="25" /></a>
+<a href="https://linkedin.com/in/ssss" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="25" width="25" /></a>
+<a href="https://discord.gg/sss" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/741/147/original/discord-logo-icon-social-media-icon-free-png.png"  height="25" width="25" /></a>
+	&nbsp;
+</div> 
+
+<br>
+<br>
 
 <picture>
   <source
