@@ -6,7 +6,7 @@
 
 	  > 👤 My Name : Saharat Suwannapapond
  	  > 🏷️ My Nicename : Sarus
-  	> 🎓 I Study in Walailak University
+  	  > 🎓 I Study in Walailak University
 
 </div>
 
