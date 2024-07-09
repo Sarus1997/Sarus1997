@@ -3,11 +3,11 @@
 <img align="left" height="106" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1505620/f165be671b026f0ff93d2e669dba519cd0e75c16.gif"  />
 
 <div align="left">
-
-	  > 👤 My Name : Saharat Suwannapapond
- 	  > 🏷️ My Nicename : Sarus
-  	  > 🎓 I Study in Walailak University
-
+	
+    👤 My Name : Saharat Suwannapapond
+    🏷️ My Nicename : Sarus
+    🎓 I Study in Walailak University
+    
 </div>
 
 <hr>
