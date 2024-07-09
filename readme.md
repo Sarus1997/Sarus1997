@@ -47,7 +47,7 @@
 
 <h2>:memo: Languages and Tools :</h2>
 
-<table>
+<table align="center">
    <tr>
 	<td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html-icon.svg" alt="icon" width="65" height="65" /></a>
 	       <br>HTML5
