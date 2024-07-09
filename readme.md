@@ -16,11 +16,11 @@
 
 <h3 align="right"> 🌐 > Contact Me &nbsp;</h3>
 <div align="right"> 
-<a href="https://fb.com/saharat suwannapapond" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="25" width="25" /></a>
-<a href="https://instagram.com/qsqs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"  height="25" width="25" /></a>
+<a href="https://facebook.com/saharat.suwannapapond.7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="25" width="25" /></a>
+<a href="https://instagram.com/sr_sarus" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"  height="25" width="25" /></a>
 <a href="https://x.com/qsqs" target="blank"><img align="center" src="https://freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png"  height="25" width="25" /></a>
 <a href="https://gmail.com/qsqs" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"  height="25" width="25" /></a>
-<a href="https://linkedin.com/in/ssss" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/saharat-sarus/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="25" width="25" /></a>
 <a href="https://discord.gg/sss" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/741/147/original/discord-logo-icon-social-media-icon-free-png.png"  height="25" width="25" /></a>
 	&nbsp;
 </div> 
