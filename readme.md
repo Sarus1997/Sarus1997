@@ -41,9 +41,9 @@
 
 <hr>
 
-<div align="center">
+<picture>
  <a href="https://github.com/Sarus1997/Sarus1997/blame/main/hello.svg"><img src="svg/hello/hello.svg" width="100%" height="400" alt="Click to see the source"></a>
-</div>
+</picture>
 
 <h2>:memo: Languages and Tools :</h2>
 
