@@ -45,7 +45,8 @@
 
 ### 🎵 Music Player
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3162bevrpy6bzu2uy5e2tw6jidem&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/512px-Spotify_icon.svg.png)](https://open.spotify.com/playlist/YOUR_PLAYLIST_ID)
+
 
 ---
 
