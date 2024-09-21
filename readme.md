@@ -13,7 +13,6 @@
 
 <img src="svg/about_me.svg">
 
-<img align="left" height="106" src=""  />
 
 <div align="left">
 	
@@ -24,8 +23,6 @@
 </div>
 
 <hr>
-
-<img align="right" height="106" src=""  />
 
 <h3 align="right"> 🌐 > Contact Me : &nbsp;</h3>
 <div align="right"> 
