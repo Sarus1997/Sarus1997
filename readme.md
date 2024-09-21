@@ -25,7 +25,7 @@
 
 <hr>
 
-<img align="right" height="106" src="https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSIYhY_9XEDYOMNRBsMoGuuOgceXob50kaxV_PHjMO1MHaEqgcnrd6luAmoGB-kzc6yrnUN6_b6OPE-dvLHVzCRlbkutuU4Tn3mlEV04G6DmN-tc2XAN1AkSsNyoQ/?allow_animated=1"  />
+<img align="right" height="106" src=""  />
 
 <h3 align="right"> 🌐 > Contact Me : &nbsp;</h3>
 <div align="right"> 
