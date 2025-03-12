@@ -1,136 +1,94 @@
-![Logo](supun-new.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" />
+  
+  # SAHARAT SUWANNAPAPOND
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### 🧑‍💼 | About Me :
-
-<img src="svg/about_me.svg">
-
-<div align="left">
-    👤 **My Name**: Saharat Suwannapapond  
-    🏷️ **Nickname**: Sarus  
-    🎓 **Studying at**: Walailak University  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF6AC2&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Mobile+Application+Developer;FullStack+Developer;UI/UX+Designer" />
+  </p>
+  
+  <a href="#"><img src="https://api.visitorbadge.io/api/visitors?path=sarus1997&countColor=%23FF6AC2" alt="Visitors"></a>
+  <a href="https://github.com/sarus1997?tab=followers"><img src="https://img.shields.io/github/followers/sarus1997?label=Followers&style=social" alt="GitHub Followers"></a>
 </div>
 
-<hr>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<h3 align="right"> 🌐 > Contact Me : &nbsp;</h3>
-<div align="right"> 
-    <a href="https://facebook.com/saharat.suwannapapond.7" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="30" width="30" />
-    </a>
-    <a href="https://instagram.com/sr_sarus" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"  height="30" width="30" />
-    </a>
-    <a href="https://x.com/suwannapapond" target="blank">
-        <img align="center" src="https://freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png"  height="30" width="30" />
-    </a>
-    <a href="https://linkedin.com/in/saharat-sarus/" target="blank">
-        <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="30" width="30" />
-    </a>
-    <a href="https://discord.gg/sss" target="blank">
-        <img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" height="30" width="30" />
-    </a>
+```javascript
+const saharat = {
+  nickname: "Sarus",
+  education: "Walailak University",
+  languages: ["Thai", "English"],
+  interests: ["Web Development", "Mobile App Development", "UI/UX Design"],
+  motto: "Code with passion, design with purpose"
+};
+```
+
+<div align="right">
+  <h2>🌐 Connect With Me</h2>
+  <a href="https://facebook.com/saharat.suwannapapond.7" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/sr_sarus" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/suwannapapond" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/saharat-sarus/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://discord.gg/sss" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Skills & Technologies
 
+<div align="center">
+  
+  ### Frontend
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
+  ### Backend
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
+  ### Mobile
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  
+  ### Database
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  ### Tools
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
-### :memo: Languages and Tools :
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table align="center">
-   <tr>
-      <td align="center" width="96"><a href="https://www.w3schools.com/html/"><img src="icon/html-icon.svg" alt="icon" width="65" height="65" /></a>
-         <br>HTML5
-      </td>
-      <td align="center" width="96"><a href="https://www.w3schools.com/css/"><img src="icon/css-icon.svg" alt="icon" width="65" height="65" /></a>
-         <br>CSS
-      </td>
-      <td align="center" width="96"><a href="https://www.w3schools.com/js/"><img src="icon/js-icon.svg" alt="icon" width="65" height="65" /></a>
-         <br>JavaScript
-      </td>
-      <td align="center" width="96"><a href="https://www.python.org/"><img src="icon/python-icon.svg" alt="icon" width="65" height="65" /></a>
-         <br>Python
-      </td>
-      <td align="center" width="96"><a href="https://www.w3schools.com/php/"><img src="icon/php1.gif" alt="icon" width="65" height="65" /></a>
-         <br>PHP
-      </td>
-      <td align="center" width="96"><a href="https://www.java.com/en/"><img src="icon/java1.gif" alt="icon" width="65" height="65" /></a>
-         <br>Java
-      </td>
-      <td align="center" width="96"><a href="https://dart.dev/"><img src="icon/dart_android.gif" alt="icon" width="65" height="65" /></a>
-         <br>Dart
-      </td>
-   </tr>
-   <tr>
-      <td align="center" width="96"><a href="https://flutter.dev/"><img src="icon/flutter.gif" alt="icon" width="65" height="65" /></a>
-         <br>Flutter
-      </td>
-      <td align="center" width="96"><a href="https://react.dev/"><img src="icon/react.gif" alt="icon" width="65" height="65" /></a>
-         <br>React.js
-      </td>
-      <td align="center" width="96"><a href="https://vuejs.org/"><img src="icon/vue.gif" alt="icon" width="65" height="65" /></a>
-         <br>Vue.js
-      </td>
-      <td align="center" width="96"><a href="https://laravel.com/"><img src="icon/laravel.gif" alt="icon" width="65" height="65" /></a>
-         <br>Laravel
-      </td>
-      <td align="center" width="96"><a href="https://go.dev/"><img src="icon/go.gif" alt="icon" width="65" height="65" /></a>
-         <br>Golang
-      </td>
-      <td align="center" width="96"><a href="https://nodejs.org/en"><img src="icon/node1.gif" alt="icon" width="65" height="65" /></a>
-         <br>Node.js
-      </td>
-      <td align="center" width="96"><a href="https://www.w3schools.com/sql/"><img src="icon/mysql.gif" alt="icon" width="65" height="65" /></a>
-         <br>MySQL
-      </td>
-   </tr>
-   <tr>
-      <td align="center" width="96"><a href="https://www.mongodb.com/nosql-explained"><img src="icon/mongodb.gif" alt="icon" width="65" height="65" /></a>
-         <br>NoSQL
-      </td>
-      <td align="center" width="96"><a href="https://git-scm.com/"><img src="icon/git.gif" alt="icon" width="65" height="65" /></a>
-         <br>Git
-      </td>
-      <td align="center" width="96"><a href="https://owlcarousel2.github.io/OwlCarousel2/"><img src="icon/owl.gif" alt="icon" width="65" height="65" /></a>
-         <br>Owl
-      </td>
-      <td align="center" width="96"><a href="https://getbootstrap.com/"><img src="icon/B1.gif" alt="icon" width="65" height="65" /></a>
-         <br>Bootstrap
-      </td>
-   </tr>
-</table>
-
----
-
-### 🏆 GitHub Trophies :
-
-![](https://github-profile-trophy.vercel.app/?username=sarus1997&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### 📊 GitHub Stats :
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/sarus1997">
-    <img height="215em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarus1997&theme=radical" alt="GitHub Contribution"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sarus1997&theme=radical&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=radical&hide_border=true&border_radius=10" height="180em" alt="GitHub Streak" />
+  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=sarus1997&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180em" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180em" alt="Top Languages" />
+  </div>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarus1997&theme=radical" width="100%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+</div>
