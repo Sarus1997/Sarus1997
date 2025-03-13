@@ -79,14 +79,16 @@ const saharat = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=radical&hide_border=true&border_radius=10" height="180em" alt="GitHub Streak" />
-  
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=sarus1997&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180em" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180em" alt="Top Languages" />
-  </div>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarus1997&theme=radical" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=radical&hide_border=true&border_radius=10" width="98%" alt="GitHub Streak" />
+</div>
+
+<div style="display: flex; flex-direction: row;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sarus1997&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="55%" alt="GitHub Stats" style="margin: 0.5em;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&layout=compact&theme=radical&hide_border=true&border_radius=10" width="42%" alt="Top Languages" style="margin: 0.5em;" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarus1997&bg_color=0D1117&color=00F3D0&line=F70E92&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Activity Graph">
 </div>
 
 <div align="center">
