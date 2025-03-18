@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%" />
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" />
   
-  # `[ S A H A R A T . S U W A N N A P A P O N D ]`
+  # ⚡ SAHARAT SUWANNAPAPOND ⚡
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=40&pause=750&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Web+Development;Mobile+Engineering;FullStack+Hacking;UI/UX+Architecture" />
@@ -17,10 +17,7 @@
 
 ## `[01]` **SYSTEM.INFO** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ```javascript
-// user.profile
 const target = {
   handle: "Sarus",
   base: "Walailak University",
@@ -37,7 +34,7 @@ const target = {
 ```
 
 <div align="center">
-  <h3>💀 "The quieter you become, the more you are able to hear." - Kali Linux 💀</h3>
+  <h3>💀 "The quieter you become, the more you are able to hear." 💀</h3>
 </div>
 
 <hr style="border: 1px solid #00FF00;" />
@@ -99,22 +96,22 @@ const target = {
 
 <div align="center">
   <a href="https://facebook.com/saharat.suwannapapond.7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black&color=00FF00" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/sr_sarus" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black&color=00FF00" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://x.com/suwannapapond" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black&color=00FF00" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/saharat-sarus/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&color=00FF00" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.gg/sss" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black&color=00FF00" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="mailto:saharat.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black&color=00FF00" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -128,10 +125,6 @@ const target = {
 ## `[05]` **RUNTIME.METRICS** <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30">
 
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarus1997&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" style="margin: 0.5em;" />
-  </div>
-
   <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=sarus1997&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" style="margin: 0.5em;" width="53%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" width="40%" style="margin: 0.5em;" />
@@ -158,10 +151,5 @@ const target = {
 <hr style="border: 1px solid #00FF00;" />
 
 <div align="center">
-  <h2>`[CONNECTION.TERMINATED]`</h2>
-  <p>Access granted. Initialize repositories with stars ⭐ to activate backdoor.</p>
-  
-  <img src="https://raw.githubusercontent.com/Sarus1997/Sarus1997/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
