@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" />
   
-  # ⚡ SAHARAT SUWANNAPAPOND ⚡
+  ### ⚡ SAHARAT SUWANNAPAPOND ⚡
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=40&pause=750&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Web+Development;Mobile+Engineering;FullStack+Hacking;UI/UX+Architecture" />
@@ -10,7 +10,6 @@
   <a href="#"><img src="https://api.visitorbadge.io/api/visitors?path=Sarus1997&countColor=%2300FF00" alt="Visitors"></a>
   <a href="https://github.com/Sarus1997?tab=followers"><img src="https://img.shields.io/github/followers/Sarus1997?label=Followers&style=social" alt="GitHub Followers"></a>
   
-  [![Spotify](https://novatorem-git-master-Sarus1997.vercel.app/api/spotify)](https://open.spotify.com/user/Sarus1997)
 </div>
 
 <hr style="border: 1px solid #00FF00;" />
