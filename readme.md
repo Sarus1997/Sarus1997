@@ -168,19 +168,6 @@ const target = {
 
 <hr style="border: 1px solid #00FF00;" />
 
-## `[06]` **ACTIVE.PAYLOADS** 🚀
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/Sarus1997/backend-api-ts" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarus1997&repo=backend-api-ts&theme=chartreuse-dark&hide_border=true" alt="Backend API TypeScript"/>
-  </a>
-  <a href="https://github.com/Sarus1997/backend-api-py">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarus1997&repo=backend-api-py&theme=chartreuse-dark&hide_border=true" alt="Backend API Python"/>
-  </a>
-</div>
-
-<hr style="border: 1px solid #00FF00;" />
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
