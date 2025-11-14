@@ -40,10 +40,11 @@ const target = {
 };
 ```
 
-<!-- <div align="center">
+<div align="center">
   <h3>💀 "The quieter you become, the more you are able to hear." 💀</h3>
 </div>
 
+<!--
 <div align="center">
 
   <a href="https://open.spotify.com/intl-id/track/4WkvGb3rV8yKA1tQ9kl8qs?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
