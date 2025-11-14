@@ -45,7 +45,8 @@ const target = {
 </div>
 
 <div align="center">
-     [Somewhere Only We Know (sped up) – accelerate & creamy](https://open.spotify.com/track/4WkvGb3rV8yKA1tQ9kl8qs?utm_source=generator)
+[![Listen on Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4WkvGb3rV8yKA1tQ9kl8qs)
+
 </div>
 
 <hr style="border: 1px solid #00FF00;" />
