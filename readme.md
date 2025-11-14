@@ -45,7 +45,8 @@ const target = {
 </div>
 
 <div align="center">
-[![Listen on Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4WkvGb3rV8yKA1tQ9kl8qs)
+
+  <a href="https://open.spotify.com/intl-id/track/4WkvGb3rV8yKA1tQ9kl8qs?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 
 </div>
 
