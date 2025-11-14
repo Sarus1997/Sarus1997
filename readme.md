@@ -40,7 +40,7 @@ const target = {
 };
 ```
 
-<div align="center">
+<!-- <div align="center">
   <h3>💀 "The quieter you become, the more you are able to hear." 💀</h3>
 </div>
 
@@ -62,7 +62,7 @@ const target = {
   loading="lazy">
 </iframe>
 
-<div/>
+<div/> -->
 
 <hr style="border: 1px solid #00FF00;" />
 
