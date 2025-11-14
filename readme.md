@@ -2,13 +2,13 @@
 <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%" />
 </div>
 <div align="center">
-  
+
   #### ⚡ SAHARAT SUWANNAPAPOND ⚡
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=40&pause=750&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Web+Development;Mobile+Development;Web+Development" />
   </p>
-  
+
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="#">
     <img src="https://api.visitorbadge.io/api/visitors?path=Sarus1997&countColor=%2300FF00" alt="Visitors" height="20">
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/followers/Sarus1997?label=Followers&style=social" alt="GitHub Followers" height="20">
   </a>
 </div>
-  
+
 </div>
 
 <hr style="border: 1px solid #00FF00;" />
@@ -31,8 +31,8 @@ const target = {
   languages: ["TH", "EN"],
   routine: ["00:code", "01:game", "10:sleep", "11:repeat"],
   focus: [
-    "web_exploitation", 
-    "mobile_reverse_engineering", 
+    "web_exploitation",
+    "mobile_reverse_engineering",
     "ui_penetration",
     "ai_neural_networks"
   ],
@@ -44,22 +44,26 @@ const target = {
   <h3>💀 "The quieter you become, the more you are able to hear." 💀</h3>
 </div>
 
+<div align="center">
+     [Somewhere Only We Know (sped up) – accelerate & creamy](https://open.spotify.com/track/4WkvGb3rV8yKA1tQ9kl8qs?utm_source=generator)
+</div>
+
 <hr style="border: 1px solid #00FF00;" />
 
 ## `[02]` **WEAPONS.ARSENAL** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">
 
 <div align="center">
-  
+
   ### 💻 Programming Languages
-  
+
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </p>
-  
+
   ### 🌐 Frontend Development
-  
+
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
@@ -69,32 +73,32 @@ const target = {
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </p>
-  
+
   ### ⚙️ Backend Development
-  
+
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   </p>
-  
+
   ### 📱 Mobile Development
-  
+
   <p>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
     <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   </p>
-	
+
    ### 🗄️ Database & Cloud Systems
-  
+
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  
+
  ### 🛠️ Breaking Tools
-  
+
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
