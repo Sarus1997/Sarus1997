@@ -44,27 +44,6 @@ const target = {
   <h3>💀 "The quieter you become, the more you are able to hear." 💀</h3>
 </div>
 
-<!--
-<div align="center">
-
-  <a href="https://open.spotify.com/intl-id/track/4WkvGb3rV8yKA1tQ9kl8qs?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-
-</div>
-
-<div align="center">
-<iframe
-  style="border-radius:12px"
-  src="https://open.spotify.com/embed/track/4WkvGb3rV8yKA1tQ9kl8qs?utm_source=generator"
-  width="350"
-  height="152"
-  frameborder="0"
-  allowfullscreen=""
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy">
-</iframe>
-
-<div/> -->
-
 <hr style="border: 1px solid #00FF00;" />
 
 ## `[02]` **WEAPONS.ARSENAL** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">
