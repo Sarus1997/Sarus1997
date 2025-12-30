@@ -54,33 +54,43 @@
     <tr>
       <td width="50%" align="center">
         <h4>💻 LANGUAGE PROCESSORS</h4>
-        <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart&theme=dark&perline=4" width="100" />
+        <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart&theme=dark&perline=4" width="130" />
       </td>
       <td width="50%" align="center">
         <h4>🎨 FRONTEND CONSTRUCTS</h4>
         <img
-          src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,flutter,bootstrap&theme=dark&perline=5"
-          width="100" />
+          src="https://skillicons.dev/icons?i=nextjs,vue,nuxt,tailwind,sass,bootstrap&theme=dark&perline=4"
+          width="130" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <h4>⚙️ BACKEND INFRASTRUCTURE</h4>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=3" width="100" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=4" width="130" />
       </td>
       <td width="50%" align="center">
         <h4>💾 DATABASE REALMS</h4>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma&theme=dark&perline=3" width="100" />
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma&theme=dark&perline=4" width="130" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <h4>🛠️ DEVOPS & CLOUD ARSENAL</h4>
-        <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,git,github&theme=dark&perline=3" width="100" />
+        <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions,jenkins&theme=dark&perline=4" width="130" />
       </td>
       <td width="50%" align="center">
         <h4>🛡️ SECURITY TOOLKIT</h4>
-        <img src="https://skillicons.dev/icons?i=linux,bash,postman,vscode,figma&theme=dark&perline=3" width="100" />
+        <img src="https://skillicons.dev/icons?i=linux,bash,postman,vscode,figma&theme=dark&perline=4" width="130" />
+      </td>
+    </tr>
+        <tr>
+      <td width="50%" align="center">
+        <h4>☁️ HOSTING</h4>
+        <img src="https://skillicons.dev/icons?i=vercel,gcp,netlify&theme=dark&perline=4" width="130" />
+      </td>
+      <td width="50%" align="center">
+        <h4>📱 MOBILE DEVELOPMENT</h4>
+        <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&theme=dark&perline=4" width="130" />
       </td>
     </tr>
   </table>
