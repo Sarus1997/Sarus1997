@@ -1,155 +1,228 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%" />
-</div>
+
+<!-- Glowing Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SARUS%20PROTOCOL&fontSize=85&fontAlignY=40&animation=twinkling&fontColor=00FFAA&stroke=00FFAA&strokeWidth=3" />
+
+<!-- Animated Title with Glow Effect -->
+<h1>
+  <span style="color: #00FFAA; text-shadow: 0 0 10px #00FFAA, 0 0 20px #00FFAA, 0 0 30px #00FFAA;">⚡ SAHARAT SUWANNAPAPOND ⚡</span>
+</h1>
+
+
+
+<!-- Multi-line Typing Animation -->
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&height=80&lines=Web+Architecture+Designer;Mobile+Development+Expert;Cybersecurity+Specialist;Full-Stack+Developer;DevOps+Engineer;Cloud+Architect" alt="Typing SVG" />
+</div>
 
-  #### ⚡ SAHARAT SUWANNAPAPOND ⚡
+<br/>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=40&pause=750&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Web+Development;Mobile+Development;Web+Development" />
-  </p>
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="#">
-    <img src="https://api.visitorbadge.io/api/visitors?path=Sarus1997&countColor=%2300FF00" alt="Visitors" height="20">
+<!-- Animated Badges Grid -->
+<div align="center">
+  <a href="https://github.com/Sarus1997">
+    <img src="https://img.shields.io/badge/NEURAL_CONNECTIONS-∞-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://github.com/Sarus1997?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sarus1997?label=Followers&style=social" alt="GitHub Followers" height="20">
+    <img src="https://img.shields.io/github/followers/Sarus1997?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=000000&color=00FFAA" />
+  </a>
+  <a href="https://github.com/Sarus1997?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-20+-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://github.com/Sarus1997?tab=stars">
+    <img src="https://img.shields.io/badge/STARS_ACQUIRED-100+-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </div>
 
 </div>
 
-<hr style="border: 1px solid #00FF00;" />
+---
 
-## `[01]` **SYSTEM.INFO** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-```javascript
-const target = {
-  handle: "Sarus",
-  base: "Walailak University",
-  languages: ["TH", "EN"],
-  routine: ["00:code", "01:game", "10:sleep", "11:repeat"],
-  focus: [
-    "web_exploitation",
-    "mobile_reverse_engineering",
-    "ui_penetration",
-    "ai_neural_networks"
-  ],
-  signature: "Code like nobody's watching, deploy like everyone is"
-};
-```
-
-<div align="center">
-  <h3>💀 "The quieter you become, the more you are able to hear." 💀</h3>
-</div>
-
-<hr style="border: 1px solid #00FF00;" />
-
-## `[02]` **WEAPONS.ARSENAL** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">
-
+<!-- CYBER MATRIX SECTION -->
 <div align="center">
 
-  ### 💻 Programming Languages
+## 🌌 CYBER MATRIX - NEURAL INTERFACE
 
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </p>
+### 💻 LANGUAGE PROCESSORS
+<!-- Animated Tech Stack -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go&theme=dark&perline=8" />
+</div>
 
-  ### 🌐 Frontend Development
+### 🎨 FRONTEND CONSTRUCTS
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,vite&theme=dark&perline=8" />
+</div>
 
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </p>
+### ⚙️ BACKEND INFRASTRUCTURE
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=8" />
+</div>
 
-  ### ⚙️ Backend Development
+### 💾 DATABASE REALMS
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma&theme=dark&perline=8" />
+</div>
 
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  </p>
+### 🛠️ DEVOPS & CLOUD ARSENAL
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git&theme=dark&perline=8" />
+</div>
 
-  ### 📱 Mobile Development
-
-  <p>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  </p>
-
-   ### 🗄️ Database & Cloud Systems
-
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
- ### 🛠️ Breaking Tools
-
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🛡️ SECURITY TOOLKIT
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,postman,vscode&theme=dark&perline=6" />
+</div>
 
 </div>
 
-<hr style="border: 1px solid #00FF00;" />
+---
 
-## `[03]` **CONTACT.PROTOCOLS** 🌐
-
+<!-- INTERACTIVE DASHBOARD -->
 <div align="center">
-  <a href="https://facebook.com/saharat.suwannapapond.7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+
+## 📊 OPERATIONAL DASHBOARD
+
+<!-- Advanced Stats Grid -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarus1997&theme=github_dark&border_color=00FFAA&border_radius=10" alt="Profile Summary" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Interactive Stats Cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarus1997&theme=github_dark&border_color=00FFAA" alt="Repos Per Language" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarus1997&theme=github_dark&border_color=00FFAA" alt="Most Commit Language" width="400"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarus1997&theme=github_dark&border_color=00FFAA" alt="Stats" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sarus1997&theme=github_dark&border_color=00FFAA&utcOffset=7" alt="Productive Time" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</div>
+
+---
+
+<!-- CONTRIBUTION VISUALIZATION -->
+<div align="center">
+
+## 🔥 QUANTUM CONTRIBUTIONS
+
+<!-- Glowing Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sarus1997&theme=dark&hide_border=true&background=0D1117&border=00FFAA&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakNum=00FFAA&sideNums=00FFAA&currStreakLabel=00FFAA&dates=FFFFFF&sideLabels=00FFAA" alt="GitHub Streak" width="100%"/>
+</div>
+
+<br/>
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarus1997&theme=react-dark&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY+GRAPH&radius=10" alt="Contribution Graph" width="100%"/>
+</div>
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+
+## 🚀 FEATURED PROJECTS
+
+<!-- Project Cards Grid -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔒 Security Suite</h3>
+      <p align="center">Advanced penetration testing toolkit</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Full-Stack Platform</h3>
+      <p align="center">Enterprise web application</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 Mobile App</h3>
+      <p align="center">Cross-platform mobile solution</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☁️ Cloud Infrastructure</h3>
+      <p align="center">Scalable cloud architecture</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- CONTACT SECTION -->
+<div align="center">
+
+## 🌐 NEURAL CONNECTIONS
+
+<!-- Animated Contact Badges -->
+<div align="center">
+  <a href="https://linkedin.com/in/saharat-suwannapapond">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://instagram.com/sr_sarus" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://twitter.com/SarusProtocol">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://x.com/suwannapapond" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://github.com/Sarus1997">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://linkedin.com/in/saharat-sarus/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://discord.gg/sss" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:saharat.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://discord.gg/your-invite">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
   </a>
 </div>
 
-<hr style="border: 1px solid #00FF00;" />
+<br/>
 
-## `[04]` **ACCESS.GRANTED** 🏆
+---
+
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarus1997&theme=matrix&row=1&column=7&margin-w=15&no-bg=false" alt="GitHub Trophies" width="95%" />
-</div>
 
-## `[05]` **RUNTIME.METRICS** <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30">
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=true&animation=twinkling" />
 
-<div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sarus1997&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" style="margin: 0.5em;" width="53%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarus1997&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" width="40%" style="margin: 0.5em;" />
-  </div>
+<h3>
+  <span style="color: #00FFAA; text-shadow: 0 0 10px #00FFAA;">
+    SYSTEM STATUS: ONLINE | READY FOR COLLABORATION ⚡
+  </span>
+</h3>
 
-  <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarus1997&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph" style="margin: 0.5em;" />
-  </div>
-</div>
-
-<hr style="border: 1px solid #00FF00;" />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
