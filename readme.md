@@ -37,42 +37,56 @@
 
 ---
 
-<!-- CYBER MATRIX SECTION -->
+<!-- FEATURED PROJECTS -->
 <div align="center">
 
 ## 🌌 CYBER MATRIX - NEURAL INTERFACE
 
-### 💻 LANGUAGE PROCESSORS
-<!-- Animated Tech Stack -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go&theme=dark&perline=8" />
-</div>
-
-### 🎨 FRONTEND CONSTRUCTS
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,vite&theme=dark&perline=8" />
-</div>
-
-### ⚙️ BACKEND INFRASTRUCTURE
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=8" />
-</div>
-
-### 💾 DATABASE REALMS
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma&theme=dark&perline=8" />
-</div>
-
-### 🛠️ DEVOPS & CLOUD ARSENAL
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,gcp,git&theme=dark&perline=8" />
-</div>
-
-### 🛡️ SECURITY TOOLKIT
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,postman,vscode&theme=dark&perline=6" />
-</div>
-
+<!-- Project Cards Grid -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">LANGUAGE PROCESSORS</h3>
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go&theme=dark&perline=8" width="150" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎨 FRONTEND CONSTRUCTS</h3>
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,vite&theme=dark&perline=8"  width="200"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚙️ BACKEND INFRASTRUCTURE</h3>
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=8"  width="150" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💾 DATABASE REALMS</h3>
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma&theme=dark&perline=8"  width="150" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛠️ DEVOPS & CLOUD ARSENAL</h3>
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,gcp,git&theme=dark&perline=8"  width="100" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ SECURITY TOOLKIT</h3>
+      <p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,postman,vscode&theme=dark&perline=6"  width="100" />
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -133,83 +147,6 @@
 </div>
 
 </div>
-
----
-
-<!-- FEATURED PROJECTS -->
-<div align="center">
-
-## 🚀 FEATURED PROJECTS
-
-<!-- Project Cards Grid -->
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔒 Security Suite</h3>
-      <p align="center">Advanced penetration testing toolkit</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Full-Stack Platform</h3>
-      <p align="center">Enterprise web application</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📱 Mobile App</h3>
-      <p align="center">Cross-platform mobile solution</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">☁️ Cloud Infrastructure</h3>
-      <p align="center">Scalable cloud architecture</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- CONTACT SECTION -->
-<div align="center">
-
-## 🌐 NEURAL CONNECTIONS
-
-<!-- Animated Contact Badges -->
-<div align="center">
-  <a href="https://linkedin.com/in/saharat-suwannapapond">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://twitter.com/SarusProtocol">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://github.com/Sarus1997">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://discord.gg/your-invite">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
-  </a>
-</div>
-
-<br/>
 
 ---
 
