@@ -140,17 +140,6 @@
 <!-- CONTRIBUTION VISUALIZATION -->
 <div align="center">
 
-  ## 🔥 QUANTUM CONTRIBUTIONS
-
-  <!-- Glowing Streak Stats -->
-  <div align="center">
-    <img
-      src="https://streak-stats.demolab.com?user=Sarus1997&theme=dark&hide_border=true&background=0D1117&border=00FFAA&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakNum=00FFAA&sideNums=00FFAA&currStreakLabel=00FFAA&dates=FFFFFF&sideLabels=00FFAA"
-      alt="GitHub Streak" width="100%" />
-  </div>
-
-  <br />
-
   <!-- 3D Contribution Graph -->
   <div align="center">
     <img
