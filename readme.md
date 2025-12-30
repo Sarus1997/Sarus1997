@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Glowing Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SARUS%20PROTOCOL&fontSize=85&fontAlignY=40&animation=twinkling&fontColor=00FFAA&stroke=00FFAA&strokeWidth=3" />
+<img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" />
 
 <!-- Animated Title with Glow Effect -->
 <h1>
@@ -18,20 +17,24 @@
 <br/>
 
 <!-- Animated Badges Grid -->
-<div align="center">
-  <a href="https://github.com/Sarus1997">
-    <img src="https://img.shields.io/badge/NEURAL_CONNECTIONS-∞-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://github.com/Sarus1997?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sarus1997?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=000000&color=00FFAA" />
-  </a>
-  <a href="https://github.com/Sarus1997?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-20+-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://github.com/Sarus1997?tab=stars">
-    <img src="https://img.shields.io/badge/STARS_ACQUIRED-100+-00FFAA?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://github.com/Sarus1997">
+      <img
+        src="https://img.shields.io/badge/🔗_NEURAL_CONNECTIONS-∞-00FFAA?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+    </a>
+    <a href="https://github.com/Sarus1997?tab=followers">
+      <img
+        src="https://img.shields.io/github/followers/Sarus1997?style=for-the-badge&logo=github&logoColor=white&label=👥_FOLLOWERS&labelColor=0D1117&color=00FFAA" />
+    </a>
+    <a href="https://github.com/Sarus1997?tab=repositories">
+      <img
+        src="https://img.shields.io/badge/📦_REPOSITORIES-20+-00FFAA?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+    </a>
+    <a href="https://github.com/Sarus1997?tab=stars">
+      <img
+        src="https://img.shields.io/badge/⭐_STARS_ACQUIRED-100+-00FFAA?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+    </a>
+  </div>
 
 </div>
 
@@ -40,53 +43,48 @@
 <!-- FEATURED PROJECTS -->
 <div align="center">
 
-## 🌌 CYBER MATRIX - NEURAL INTERFACE
+  ## 🌌 CYBER MATRIX - NEURAL INTERFACE
 
-<!-- Project Cards Grid -->
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">LANGUAGE PROCESSORS</h3>
-      <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart&theme=dark&perline=8" width="150" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎨 FRONTEND CONSTRUCTS</h3>
-      <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,flutter&theme=dark&perline=8"  width="200"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚙️ BACKEND INFRASTRUCTURE</h3>
-      <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=8"  width="150" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💾 DATABASE REALMS</h3>
-      <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma&theme=dark&perline=8"  width="150" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛠️ DEVOPS & CLOUD ARSENAL</h3>
-      <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,gcp,git&theme=dark&perline=8"  width="100" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛡️ SECURITY TOOLKIT</h3>
-      <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,postman,vscode&theme=dark&perline=6"  width="100" />
-      </p>
-    </td>
-  </tr>
-</table>
+  <!-- Enhanced Project Cards Grid -->
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>💻 LANGUAGE PROCESSORS</h3>
+        <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart&theme=dark&perline=4" width="150" />
+      </td>
+      <td width="50%" align="center">
+        <h3>🎨 FRONTEND CONSTRUCTS</h3>
+        <img
+          src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,flutter,bootstrap&theme=dark&perline=5"
+          width="200" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>⚙️ BACKEND INFRASTRUCTURE</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=3"
+          width="150" />
+      </td>
+      <td width="50%" align="center">
+        <h3>💾 DATABASE REALMS</h3>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma&theme=dark&perline=3"
+          width="150" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🛠️ DEVOPS & CLOUD ARSENAL</h3>
+        <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,git,github&theme=dark&perline=3"
+          width="150" />
+      </td>
+      <td width="50%" align="center">
+        <h3>🛡️ SECURITY TOOLKIT</h3>
+        <img src="https://skillicons.dev/icons?i=linux,bash,postman,vscode,figma&theme=dark&perline=3"
+          width="150" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
