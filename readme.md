@@ -48,13 +48,13 @@
     <td width="50%">
       <h3 align="center">LANGUAGE PROCESSORS</h3>
       <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go&theme=dark&perline=8" width="150" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart&theme=dark&perline=8" width="150" />
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🎨 FRONTEND CONSTRUCTS</h3>
       <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,vite&theme=dark&perline=8"  width="200"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,flutter&theme=dark&perline=8"  width="200"/>
       </p>
     </td>
   </tr>
