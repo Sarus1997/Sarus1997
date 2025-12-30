@@ -21,24 +21,24 @@
   <br />
 
   <!-- Animated Badges Grid -->
-  <div align="center">
-    <a href="https://github.com/Sarus1997">
-      <img
-        src="https://img.shields.io/badge/🔗_NEURAL_CONNECTIONS-∞-00FFAA?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-    </a>
-    <a href="https://github.com/Sarus1997?tab=followers">
-      <img
-        src="https://img.shields.io/github/followers/Sarus1997?style=for-the-badge&logo=github&logoColor=white&label=👥 FOLLOWERS&labelColor=0D1117&color=00FFAA" />
-    </a>
-    <a href="https://github.com/Sarus1997?tab=repositories">
-      <img
-        src="https://img.shields.io/badge/📦_REPOSITORIES-20+-00FFAA?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-    </a>
-    <a href="https://github.com/Sarus1997?tab=stars">
-      <img
-        src="https://img.shields.io/badge/⭐_STARS_ACQUIRED-100+-00FFAA?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-    </a>
-  </div>
+
+
+<p align="center">
+  <a href="https://github.com/Sarus1997?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sarus1997?style=for-the-badge&label=FOLLOWERS&labelColor=0D1117&color=00FFAA" />
+  </a>
+  <a href="https://github.com/Sarus1997?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-20%2B-00FFAA?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/Sarus1997?tab=stars">
+    <img src="https://img.shields.io/badge/STARS-100%2B-00FFAA?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" />
+</p>
+
 
 </div>
 
