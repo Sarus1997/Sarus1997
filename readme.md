@@ -28,7 +28,7 @@
     </a>
     <a href="https://github.com/Sarus1997?tab=followers">
       <img
-        src="https://img.shields.io/github/followers/Sarus1997?style=for-the-badge&logo=github&logoColor=white&label=👥_FOLLOWERS&labelColor=0D1117&color=00FFAA" />
+        src="https://img.shields.io/github/followers/Sarus1997?style=for-the-badge&logo=github&logoColor=white&label=👥 FOLLOWERS&labelColor=0D1117&color=00FFAA" />
     </a>
     <a href="https://github.com/Sarus1997?tab=repositories">
       <img
