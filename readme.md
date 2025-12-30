@@ -53,34 +53,34 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>💻 LANGUAGE PROCESSORS</h3>
-        <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart&theme=dark&perline=4" width="150" />
+        <h4>💻 LANGUAGE PROCESSORS</h4>
+        <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,dart&theme=dark&perline=4" width="100" />
       </td>
       <td width="50%" align="center">
-        <h3>🎨 FRONTEND CONSTRUCTS</h3>
+        <h4>🎨 FRONTEND CONSTRUCTS</h4>
         <img
           src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,sass,flutter,bootstrap&theme=dark&perline=5"
-          width="200" />
+          width="100" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <h3>⚙️ BACKEND INFRASTRUCTURE</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=3" width="150" />
+        <h4>⚙️ BACKEND INFRASTRUCTURE</h4>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark&perline=3" width="100" />
       </td>
       <td width="50%" align="center">
-        <h3>💾 DATABASE REALMS</h3>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma&theme=dark&perline=3" width="150" />
+        <h4>💾 DATABASE REALMS</h4>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma&theme=dark&perline=3" width="100" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <h3>🛠️ DEVOPS & CLOUD ARSENAL</h3>
-        <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,git,github&theme=dark&perline=3" width="150" />
+        <h4>🛠️ DEVOPS & CLOUD ARSENAL</h4>
+        <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,git,github&theme=dark&perline=3" width="100" />
       </td>
       <td width="50%" align="center">
-        <h3>🛡️ SECURITY TOOLKIT</h3>
-        <img src="https://skillicons.dev/icons?i=linux,bash,postman,vscode,figma&theme=dark&perline=3" width="150" />
+        <h4>🛡️ SECURITY TOOLKIT</h4>
+        <img src="https://skillicons.dev/icons?i=linux,bash,postman,vscode,figma&theme=dark&perline=3" width="100" />
       </td>
     </tr>
   </table>
